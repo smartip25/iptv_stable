@@ -1,3 +1,5 @@
+#EXTM3U url-tvg="https://iptvx.one/epg/epg_lite.xml.gz"
+#PLAYLIST:IPTVstable
 #EXTINF:-1,360° HD
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-04-srt.smil/playlist.m3u8
 #EXTINF:-1,RTVi
